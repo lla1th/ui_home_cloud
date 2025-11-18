@@ -1,10 +1,13 @@
 Архитектура проекта
+
 ```bash
 запуск проекта
 - npx expo start --host tunnel
 - npx expo start --tunnel
 ```
+
 ---
+
 ```bash
 /src
   /app
